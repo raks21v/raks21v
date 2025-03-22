@@ -20,10 +20,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=raks21v&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⚡<h3>Fun Fact:</h3>
+<h3>⚡Fun Fact:</h3>
 
 I love exploring creative ways to combine technology and aesthetics!<br>
 
-🚀 Let's build something amazing together!<br>
+<p> <i>🚀 Let's build something amazing together!</i></p><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
