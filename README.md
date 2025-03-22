@@ -1,6 +1,6 @@
 ## Hi, i'm Rakshitha ✨
 🌐 Information Science and Engineering at Nagarjuna College of Engineering and Technology<br>
-👩‍💻<h3> About Me:</h3>
+<h3>👩‍💻 About Me:</h3>
 🔭 Currently pursuing my Bachelor's degree in Information Science and Engineering.<br>
 🎯 Actively looking for opportunities to start my career in the IT sector.<br>
 💪 Hardworking, quick to learn, and adaptable to new challenges.<br>
