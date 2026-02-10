@@ -48,8 +48,47 @@ These badges follow a **tech-themed color palette** (cool blues, coding neutrals
 
 [![](https://visitcount.itsvg.in/api?id=raks21v\&icon=0\&color=1)](https://visitcount.itsvg.in)
 
+## 🏅 Google Cloud Skill Badges
 
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/NBElgKYLm5qKXEaOeNSlHPbf8mFlGfOfDOynrG9%2FeMc%3D" width="140" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/1AL8RQ3upouxYuF5THyPTHjcBwX9v8OJmayWKJDfgdI%3D" width="140" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/iHRgVT9vcuAvFvNcdgzXyQj0elh6XLfGbuvNQXpLL6k%3D" width="140" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/h9g0iDUwSAv71rge7ojK%2Bu5Ozn6chf8o0YwPmh32H2w%3D" width="140" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/o7a5Wmw8Ye2TR0I7CFXg%2FKNhjHuBCW3I01ugkCcygQw%3D" width="140" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/70kJriWRubHwoo5Vazdcb9U2A80xDz6XzITEUvPeD8Y%3D" width="140" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/kRBWsfm%2F87FqESzQD293bPrfOAFGWBYSnFMd3WWMe8o%3D" width="140" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/jSSByLw30gFeK7Mo9V5%2F5Phhv%2BpyV8HRQbcbAfL4yQs%3D" width="140" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles">
+    <img src="https://cdn.qwiklabs.com/1ZWaDPUCsCfE8jU%2B%2BAC8equX%2FDDf97q1XuTqlPz0Vvc%3D" width="140" />
+  </a>
+</p>
+
+🔗 **View all my Google Cloud badges:**  
+https://www.skills.google/public_profiles/d4ed7244-123e-45e1-afe6-21d1a934a87e
+
+---
 ## ⚡ Fun Fact
 
 I love exploring creative ways to combine **technology + aesthetics** to build visually engaging digital experiences.
