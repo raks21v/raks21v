@@ -183,18 +183,14 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raks21v&show_icons=true&theme=tokyonight&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raks21v&theme=radical)](https://git.io/streak-stats)
 
-(![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raks21v&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raks21v&layout=compact&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=raks21v&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=raks21v&theme=radical&column=7&margin-w=15&margin-h=15)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=raks21v&icon=0&color=1)](https://visitcount.itsvg.in)
