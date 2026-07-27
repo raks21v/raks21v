@@ -173,8 +173,6 @@
 
 🏅 Claude 101
 
-🏅 Flipkart GRiD 8.0 Participant
-
 🏅 AWS Cloud GenAI Virtual Internship Applicant
 
 🏅 Google Gemini Quiz Participant
